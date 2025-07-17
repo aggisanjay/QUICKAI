@@ -1,6 +1,6 @@
 # 🚀 QuickAI
 
-**ContentAI** is an all-in-one AI-powered content creation platform designed for creators, marketers, and professionals. It offers powerful tools to generate articles, design and edit images, and review resumes—all in one seamless experience.
+**QuickAI** is an all-in-one AI-powered content creation platform designed for creators, marketers, and professionals. It offers powerful tools to generate articles, design and edit images, and review resumes—all in one seamless experience.
 
 ---
 
